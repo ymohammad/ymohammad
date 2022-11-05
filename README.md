@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan</h1>
-<img align="right" alt="Programming" width="200" src="./assets/profile_ymohammad.gif">
+<img align="right" alt="Programming" width="300" src="./assets/profile_ymohammad.gif">
 <h3 align="center">I am an enthusiastic software engineer. I work as a Senior Full Stack Software Engineer using Java, Spring Boot, Microservices Based Architecture, Node.js and React.js technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymohammad&label=Profile%20views&color=0e75b6&style=flat" alt="ymohammad" /> </p>
